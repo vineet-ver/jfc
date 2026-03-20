@@ -46,7 +46,7 @@ export default function Footer() {
                 padding: "10px 16px",
                 background: "rgba(37,211,102,0.08)",
                 borderRadius: 50,
-                display: "inline-flex",
+               
               }}
             >
               <span
